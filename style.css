@@ -80,6 +80,15 @@ main {
   display: inline-block;
 }
 
+.blog-box {
+  padding-top: 50px;
+}
+.blog-text {
+  padding: 25px 0 0 30px;
+}
+.blog-text-heading {
+  padding-bottom: 15px;
+}
 .category {
   display: inline-block;
   padding: 5px 8px;
